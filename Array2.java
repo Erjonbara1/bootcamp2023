@@ -15,7 +15,7 @@ public class Array2 {
 	
 	static int[][] matricaShume(int[][] matrica){
 		int i = 0,j = 0,k,l,m,n;
-		System.out.println("test");
+		System.out.println("testsdfdsf");
 		System.out.println("Futni numrat e rreshtave te matrices se pare: ");
 		m = input.nextInt();
 		System.out.println("Futni numrat e kolonave te matrices se pare: ");
